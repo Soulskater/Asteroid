@@ -22,7 +22,7 @@ function disablePopup() {
         $("#backgroundPopup").fadeOut("fast");
         $("#popupContact").fadeOut("fast");
         popupStatus = 0;
-        window.location.href = "Index.html";
+        window.location.href = "index.html";
     }
 }
 
